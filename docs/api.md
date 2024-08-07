@@ -24,7 +24,8 @@ Result is a JSON object containing the token:
 ```json
 { "token": "eyJhb..." }
 ```
-A nice doc change.
+
+another change.
 
 ### Example
 ```bash
