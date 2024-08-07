@@ -9,6 +9,8 @@ GET /apis/token.kubevirt.io/v1/namespaces/${VMI_NAMESPACE}/virtualmachines/${VMI
 Where `${VMI_NAMESPACE}` and `${VMI_NAME}` are the namespace
 and name of a running VMI.
 
+HELLO WORLD
+
 #### Parameters
 - `duration` - Duration while the token is valid. If it is not specified, then the token will expire after 10 minutes.
   The minimum `duration` value is 10 minutes, and there isn't a maximum value.
