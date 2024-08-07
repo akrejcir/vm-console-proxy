@@ -6,6 +6,9 @@ A temporary token can be generated using:
 ```
 GET /apis/token.kubevirt.io/v1/namespaces/${VMI_NAMESPACE}/virtualmachines/${VMI_NAME}/vnc
 ``` 
+
+NICE TO SEE YOU
+
 Where `${VMI_NAMESPACE}` and `${VMI_NAME}` are the namespace
 and name of a running VMI.
 
