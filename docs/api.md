@@ -25,7 +25,7 @@ HELLO WORLD
 > Valid time units are `ns`, `us` (or `µs`), `ms`, `s`, `m`, `h`.
 
 #### Result
-Result is a JSON object containing the token:
+Result is a JSON object6789 containing the token:
 ```json
 { "token": "eyJhb..." }
 ```
