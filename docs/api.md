@@ -27,6 +27,8 @@ Result is a JSON object containing the token:
 { "token": "eyJhb..." }
 ```
 
+STABLE CHANGE
+
 another change.
 
 ### Example
