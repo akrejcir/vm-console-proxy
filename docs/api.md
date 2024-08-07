@@ -27,6 +27,8 @@ Result is a JSON object containing the token:
 { "token": "eyJhb..." }
 ```
 
+another change.
+
 ### Example
 ```bash
 curl --header "Authorization: Bearer ${KUBERNETES_USER_TOKEN}" \
